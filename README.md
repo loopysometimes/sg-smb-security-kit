@@ -18,12 +18,13 @@ PhishFood is for them.
 **[`analysis.md`](analysis.md) — The Simulation**
 A controlled phishing simulation run in an isolated lab environment against dummy accounts I own. Three campaigns: fake IRAS tax refund, fake Singpass deletion, fake SingPost delivery notice. Documents the full attack chain from spoofed email to harvested credentials — so you know exactly what you're defending against.
 
-
 **[`checklist.md`](checklist.md) — The PDPA Checklist**
 A plain-English checklist for small Singapore organisations. No 
 legal jargon (I legally can't add that since I'm not a laywer), no IT degree required. Five things to check before something goes wrong.
 
 **[`incident-card.md`](incident-card.md) — The Incident Response Card**What to do in the first 60 minutes if something goes wrong. Three scenarios: clicked a suspicious link, gave away a password, money left the account. Print it. Stick it on the wall. Hope you never need it.
+
+**[`why-it-works.md`](why-it-works.md) — Why** A short rundown on why these phishing emails work, how they work, and how to avoid them!
 ---
 
 ## Who this is for
